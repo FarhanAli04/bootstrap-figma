@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Patrick+Hand&display=swap');
+
+*{
+    font-family: "Patrick Hand", cursive;
+    font-weight: 400;
+}
+.top-nav{
+    background-image: url(./bg-1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+
+}
